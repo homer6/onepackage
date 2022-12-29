@@ -7,6 +7,7 @@ General DevOp, TechOps, Cloud, and Kubernetes Resources
 
   * [Systems Analysis](http://perf-report.com)
   * [CDK for Terraform (CDKTF) example applications](https://developer.hashicorp.com/terraform/cdktf/examples)
+  * [CDK AWS EKS example](https://github.com/hashicorp/terraform-cdk/blob/main/examples/python/aws-eks/main.py)
   
 
 ## Books and Videos
