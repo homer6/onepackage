@@ -6,6 +6,7 @@ General DevOp, TechOps, Cloud, and Kubernetes Resources
 ## Devops Resources
 
   * [Systems Analysis](http://perf-report.com)
+  * [CDK for Terraform (CDKTF) example applications](https://developer.hashicorp.com/terraform/cdktf/examples)
   
 
 ## Books and Videos
