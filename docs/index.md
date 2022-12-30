@@ -32,3 +32,4 @@ General DevOp, TechOps, Cloud, and Kubernetes Resources
 ## Courses
 
   * [Kube Academy](https://kube.academy/)
+  * [Terraform](https://developer.hashicorp.com/terraform/tutorials)
