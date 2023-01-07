@@ -30,7 +30,7 @@ The OnePackage website also cites general devops, techops, cloud architecture, d
 
   * [Kali](https://www.kali.org/)
   * [nmap](https://insecure.org/)
-  * [LeakSignal MeshSecOps Dataplane Sec](https://www.leaksignal.com/)
+  * [LeakSignal - Micro Firewall for Microservices (MeshSecOps) - Dataplane Protection](https://www.leaksignal.com/)
   * [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
   * [Cobalt Strike](https://www.cobaltstrike.com/)
   * [Metasploit](https://www.metasploit.com/)
