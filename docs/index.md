@@ -83,16 +83,16 @@ The OnePackage website also cites general devops, techops, cloud architecture, d
   * [Kube Academy](https://kube.academy/)
 
 
-## Tutorials (Devops)
-  
-  * [Terraform](https://developer.hashicorp.com/terraform/tutorials)
-
-
 ## Training (DevSecOps)
 
   * [Cybrary](https://www.cybrary.it/)
   * [A Cloud Guru](https://acloudguru.com/)
   * [Offensive Security](https://www.offensive-security.com/)  
+
+
+## Tutorials (DevOps)
+  
+  * [Terraform](https://developer.hashicorp.com/terraform/tutorials)
 
 
 ## Certifications
