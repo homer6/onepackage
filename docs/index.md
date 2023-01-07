@@ -42,6 +42,7 @@ The OnePackage website also cites general devops, techops, cloud architecture, d
   * [Nessus](https://www.tenable.com/products/nessus)
   * [dnsdumpster](https://dnsdumpster.com/)
   * [shodan](https://www.shodan.io/)
+  * [recon-ng](https://www.kali.org/tools/recon-ng/)
 
 
 ## Compliance Resources
