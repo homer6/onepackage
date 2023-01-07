@@ -1,6 +1,6 @@
 # onepackage
 
-OnePackage is an opinionated monolith of several clusters and services that function as a whole. Architecture diagrams will be posted shortly.
+OnePackage is a free tool to help you deploy your entire stack in one sweet, sweet package. It creates Kubernetes clusters with all of the trimmings.
 
 The OnePackage website also cites general devops, techops, cloud architecture, devsecops, and kubernetes resources.
 
