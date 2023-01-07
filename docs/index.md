@@ -83,6 +83,11 @@ The OnePackage website also cites general devops, techops, cloud architecture, d
   * [Kube Academy](https://kube.academy/)
 
 
+## Tutorials (Devops)
+  
+  * [Terraform](https://developer.hashicorp.com/terraform/tutorials)
+
+
 ## Training (DevSecOps)
 
   * [Cybrary](https://www.cybrary.it/)
@@ -103,3 +108,4 @@ The OnePackage website also cites general devops, techops, cloud architecture, d
   * [Remote Leaf](https://remoteleaf.com/whoishiring)
   * [YC Jobs](https://news.ycombinator.com/jobs)
   * [RemoteOK](https://remoteok.com/)
+
