@@ -57,12 +57,22 @@ The OnePackage website also cites general devops, techops, cloud architecture, d
 ## DevSecOps Books and Videos
 
   * [Thread Modeling](https://www.amazon.ca/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998)
+  * [OSINT](https://www.amazon.com/Open-Source-Intelligence-Techniques-Information/dp/B09PHL6Q4G)
+  * [OSINT](https://www.youtube.com/watch?v=xHBDRIRH-FY)
 
 
-## YouTubers
+## YouTubers (DevOps)
 
   * [DevOps Toolkit](https://www.youtube.com/@DevOpsToolkit)
   * [That DevOps Guy](https://www.youtube.com/@MarcelDempers)
+  * [TGIK](https://github.com/vmware-tanzu/tgik/blob/master/playlist.md)
+  * [VMware Cloud Native Apps](https://www.youtube.com/@vmwarecloudnativeapps816/videos)
+
+
+## YouTubers (DevSecOps)
+
+  * [David Bombal](https://www.youtube.com/channel/UCP7WmQ_U4GB3K51Od9QvM0w)
+  * [Gerald Auger, PhD - Simply Cyber](https://www.youtube.com/@SimplyCyber/videos)
 
 
 ## Observability Tools
