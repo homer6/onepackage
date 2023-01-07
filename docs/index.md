@@ -113,6 +113,7 @@ The OnePackage website also cites general devops, techops, cloud architecture, d
 
   * [AWS Certifications](https://aws.amazon.com/certification/)
   * [Offensive Security Pen Testing Certifications](https://www.offensive-security.com/pwk-oscp/)
+  * [Kubernetes Exam Simulator](https://killer.sh/)
 
 
 ## Job/Career Listings
