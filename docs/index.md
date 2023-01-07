@@ -39,6 +39,9 @@ The OnePackage website also cites general devops, techops, cloud architecture, d
   * [OWASP](https://owasp.org/)
   * [OWASP Risk Rating Methodology](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology)
   * [Enumerations – CPE, CVE, CCE](https://csrc.nist.gov/CSRC/media/Projects/Security-Content-Automation-Protocol/documents/docs/2008-conf-presentations/scaptutorial/2-enumerations.pdf)
+  * [Nessus](https://www.tenable.com/products/nessus)
+  * [dnsdumpster](https://dnsdumpster.com/)
+  * [shodan](https://www.shodan.io/)
 
 
 ## Compliance Resources
@@ -57,8 +60,8 @@ The OnePackage website also cites general devops, techops, cloud architecture, d
 ## DevSecOps Books and Videos
 
   * [Thread Modeling](https://www.amazon.ca/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998)
-  * [OSINT](https://www.amazon.com/Open-Source-Intelligence-Techniques-Information/dp/B09PHL6Q4G)
-  * [OSINT](https://www.youtube.com/watch?v=xHBDRIRH-FY)
+  * [OSINT Book](https://www.amazon.com/Open-Source-Intelligence-Techniques-Information/dp/B09PHL6Q4G)
+  * [OSINT Tools List](https://www.youtube.com/watch?v=xHBDRIRH-FY)
 
 
 ## YouTubers (DevOps)
